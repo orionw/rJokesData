@@ -1,0 +1,8 @@
+env/
+.vscode
+*pycache*
+*.bin
+*.pt
+*cached*
+*checkpoint*
+analysis/output/*
