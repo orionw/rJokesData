@@ -1,9 +1,9 @@
 # The r/Jokes Dataset: a Large Scale Humor Collection
-Code and Datasets from the paper, ["The r/Jokes Dataset: a Large Scale Humor Collection"](TODO) by Orion Weller and Kevin Seppi
+Code and Datasets from the paper, ["The r/Jokes Dataset: a Large Scale Humor Collection"](https://www.aclweb.org/anthology/2020.lrec-1.753/) by Orion Weller and Kevin Seppi
 
 Dataset files are located in `data/{train/dev/test}.tsv` for the regression task, while the full unsplit data can be found in `data/preprocessed.tsv`.  These files will need to be unzipped after cloning the repo.
 
-For related projects, see our work on [Humor Detection (separating the humorous jokes from the non-humorous)](https://github.com/orionw/RedditHumorDetection) or other cited work.
+For related projects, see our work on [Humor Detection (separating the humorous jokes from the non-humorous)](https://github.com/orionw/RedditHumorDetection) or [generating humor automatically](https://github.com/orionw/humorTranslate).
 
 ** **We do not endorse these jokes. Please view at your own risk** **
 
